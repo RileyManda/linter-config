@@ -37,7 +37,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Air-quality <a name="about-project"></a>
+# 📖 Linter-Config <a name="about-project"></a>
 
 React linters and workkflow starter template for React projects.
  <img src="app-screenshot.png" alt="logo" width="140"  height="auto" />
